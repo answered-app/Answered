@@ -26,7 +26,11 @@
                                         <rect key="frame" x="0.0" y="92" width="375" height="59"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="IRd-Lf-8Rh" id="8Fh-Mj-jFV">
+<<<<<<< HEAD
                                             <rect key="frame" x="0.0" y="0.0" width="375" height="58.5"/>
+=======
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="58"/>
+>>>>>>> e983f5b194ddd8923396ddf18b5a3708210fd75d
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Cell Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gc8-x4-ccD">
@@ -54,7 +58,11 @@
                                         <rect key="frame" x="0.0" y="151" width="375" height="87"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="tco-oo-0b4" id="guV-QJ-su1">
+<<<<<<< HEAD
                                             <rect key="frame" x="0.0" y="0.0" width="375" height="86.5"/>
+=======
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="86"/>
+>>>>>>> e983f5b194ddd8923396ddf18b5a3708210fd75d
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="There are currently no prayer requests in your area" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Bvb-b6-79P">
@@ -124,7 +132,11 @@
                                 <rect key="frame" x="0.0" y="28" width="375" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="i0r-To-LgR" id="FbQ-mz-Dd2">
+<<<<<<< HEAD
                                     <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
+=======
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="43"/>
+>>>>>>> e983f5b194ddd8923396ddf18b5a3708210fd75d
                                     <autoresizingMask key="autoresizingMask"/>
                                 </tableViewCellContentView>
                             </tableViewCell>
